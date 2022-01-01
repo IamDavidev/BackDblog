@@ -28,5 +28,4 @@ module.exports = ({ env }) => ({
 //     },
 //     useNullAsDefault: true,
 //   },
-// postgres://:@/
 // });
